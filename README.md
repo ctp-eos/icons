@@ -5,13 +5,13 @@ CTP-EOS Icons™ are basic CTP-EOS™ images (usually .pngs with transparencies)
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-Here's a clean and clear article item note for GitHub regarding the **CTP-EOS symbol**:
+Here's a clean and clear article item note for GitHub regarding the **CTP-EOS™ symbol**:
 
 ---
 
-### 🔷 CTP-EOS Symbol Overview
+### 🔷 CTP-EOS™ Symbol Overview
 
-The default **CTP-EOS** symbol is a **blue chrome equilateral upward-facing triangle**.
+The default **CTP-EOS™** symbol is a **blue chrome equilateral upward-facing triangle**.
 
 - **Color Meaning**: The **blue** hue symbolizes **T-energy**, one of the three foundational energy forms within **CTP Energy Science**.
 - **Shape Significance**: The **equilateral triangle**, pointing upward, represents the **trenary** (three-fold) nature of CTP Energy.
@@ -21,7 +21,7 @@ The default **CTP-EOS** symbol is a **blue chrome equilateral upward-facing tria
   - **Trigonometry**, and
   - Other mathematical and metaphysical sciences integral to the structure of the universe.
 
-This symbol stands as a unifying icon for the **CTP-EOS operating system** and the broader vision of **CTP Energy Science**—merging advanced energy principles with modern computing.
+This symbol stands as a unifying icon for the **CTP-EOS™ Operating System** and the broader vision of **CTP Energy Science**—merging advanced energy principles with modern computing.
 
 ---
 
