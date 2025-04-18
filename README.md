@@ -1,11 +1,6 @@
 # icons
 CTP-EOS Icons™ are basic CTP-EOS™ images (usually .pngs with transparencies) to be used for various widgets and image placeholders and other widgets throughout various menu items and other icon placements throughout the CTP-EOS™ Linux environment.
 
-## License
-
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
-
 ---
 
 ### 🔷 CTP-EOS™ Symbol Overview
@@ -25,3 +20,7 @@ This symbol stands as a unifying icon for the **CTP-EOS™ Operating System** an
 ---
 
 ![Alt Text](https://github.com/ctp-eos/icons/blob/main/ctp-eos-icon-1.png?raw=true) 
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
