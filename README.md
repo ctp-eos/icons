@@ -21,7 +21,6 @@ This symbol stands as a unifying icon for the **CTP-EOS™ Operating System** an
 
 [![CTP-EOS Symbol](https://github.com/ctp-eos/icons/blob/main/ctp-eos-icon-1.png?raw=true)](https://www.ctp-eos.org)
 
-
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
