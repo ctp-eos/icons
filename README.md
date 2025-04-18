@@ -19,7 +19,8 @@ This symbol stands as a unifying icon for the **CTP-EOS™ Operating System** an
 
 ---
 
-![Alt Text](https://github.com/ctp-eos/icons/blob/main/ctp-eos-icon-1.png?raw=true) 
+[![CTP-EOS Symbol](https://github.com/ctp-eos/icons/blob/main/ctp-eos-icon-1.png?raw=true)](https://www.ctp-eos.org)
+
 
 ## License
 
