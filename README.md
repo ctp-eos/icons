@@ -13,7 +13,7 @@ Here's a clean and clear article item note for GitHub regarding the **CTP-EOS sy
 
 The default **CTP-EOS** symbol is a **blue chrome equilateral upward-facing triangle**.
 
-- **Color Meaning**: The **blue** hue symbolizes **T-energy**, the foundational energy form within **CTP Energy Science**.
+- **Color Meaning**: The **blue** hue symbolizes **T-energy**, one of the three foundational energy forms within **CTP Energy Science**.
 - **Shape Significance**: The **equilateral triangle**, pointing upward, represents the **trenary** (three-fold) nature of CTP Energy.
 - **Philosophical and Scientific Roots**:  
   The triangle also pays homage to **Pythagoras**, reflecting a deep respect for the classical sciences of:
