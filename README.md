@@ -5,7 +5,6 @@ CTP-EOS Icons™ are basic CTP-EOS™ images (usually .pngs with transparencies)
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-Here's a clean and clear article item note for GitHub regarding the **CTP-EOS™ symbol**:
 
 ---
 
