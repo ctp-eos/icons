@@ -24,3 +24,5 @@ The default **CTP-EOS** symbol is a **blue chrome equilateral upward-facing tria
 This symbol stands as a unifying icon for the **CTP-EOS operating system** and the broader vision of **CTP Energy Science**—merging advanced energy principles with modern computing.
 
 ---
+
+![Alt Text](https://github.com/ctp-eos/icons/blob/main/ctp-eos-icon-1.png?raw=true) 
